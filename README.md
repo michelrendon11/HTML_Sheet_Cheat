@@ -5,3 +5,6 @@ The page can be found at:
 
 https://michelrendon11.github.io/HTML_Sheet_Cheat/
 
+Documentation is taken from:
+
+https://www.w3schools.com/html/default.asp
